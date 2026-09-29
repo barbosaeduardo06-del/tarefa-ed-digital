@@ -35,13 +35,14 @@ nav a {
     background-color: #9b4d83;
     padding: 10px 15px;
     border-radius: 8px;
-    margitn: 5px;
+    margin: 5px;
     display: inline-block;
 }
 
 nav a:hover {
     background-color: #c77dff;
 }
+
 main {
     width: 80%;
     margin: auto;
@@ -69,7 +70,7 @@ figcaption {
     margin-top: 8px;
 }
 
-card {
+.card {
     background-color: #f3d9fa;
     padding: 15px;
     margin: 15px 0;
@@ -77,9 +78,10 @@ card {
     border-radius: 10px;
 }
 
-card h3 {
+.card h3 {
     margin-top: 0;
 }
+
 footer {
     background-color: #222222;
     color: white;
@@ -97,7 +99,7 @@ button {
     cursor: pointer;
 }
 
-botton:hover{
+button:hover {
     background-color: #13a106;
 }
 
